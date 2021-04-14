@@ -2,6 +2,21 @@
 	margin:0;
 	padding:0;
 }
+.name{
+	position: relative;
+	width: 380px;
+	display: flex;
+	justify-content: flex-end;
+
+}
+h1{
+	position: absolute;
+	font-size: 30px;
+	top: 270px;
+	color:white;
+	margin-left: 140px;
+	
+}
 
 .post{
 	display: flex;
